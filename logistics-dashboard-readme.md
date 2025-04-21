@@ -59,11 +59,3 @@ The dashboard is powered by a sophisticated data pipeline:
   - Snowflake data warehouse
   - Azure Blob Storage
 
-
-## Maintenance
-- Data is processed through the ETL pipeline described above
-- Updates to the dashboard can be made through the Power BI service
-- For data source changes, adjustments may be needed in the Python scripts and SQL queries
-
-## Contact
-For questions or support regarding this dashboard, please contact [your contact information].
