@@ -1,10 +1,13 @@
 # Logistics Dashboard - Good Invoice (GI) Trend Analysis
 
+![image](https://github.com/user-attachments/assets/ce2fc13d-df50-4451-8b21-0690c91ab2ad)
+
+
 ## Overview
 This Power BI dashboard provides comprehensive visibility into logistics operations by analyzing Good Invoice (GI) data across multiple warehouses. The dashboard offers real-time insights into key operational metrics including delivery orders, productivity trends, and pallet utilization.
 
 ## Features
-- **Multi-Warehouse Analysis**: Track performance across 6 warehouses (CA S11, TX S35, NJ S31, IL S34, Canada S37, WA S36)
+- **Multi-Warehouse Analysis**: Track performance across 6 warehouses 
 - **Comprehensive Metrics**: Monitor DO counts, productivity, quantities, pallet trends, and KPIs
 - **Time-Based Analysis**: Filter data by months and years with interactive slicers
 - **Dynamic Calculations**: View counts for specific selections or averages when multiple periods are selected
@@ -55,8 +58,7 @@ The dashboard is powered by a sophisticated data pipeline:
 - **Data Sources**: 
   - Snowflake data warehouse
   - Azure Blob Storage
-- **Refresh Schedule**: [Define your refresh schedule here]
-- **Security**: [Specify access controls if applicable]
+
 
 ## Maintenance
 - Data is processed through the ETL pipeline described above
